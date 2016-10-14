@@ -27,7 +27,7 @@
       </ThreadGroup>
       <hashTree>
         <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
-          <stringProp name="filename">/Users/jianzhongqiu/jmeter/qa3.csv</stringProp>
+          <stringProp name="filename">qa3.csv</stringProp>
           <stringProp name="fileEncoding"></stringProp>
           <stringProp name="variableNames">key,mime,cmd</stringProp>
           <stringProp name="delimiter">,</stringProp>
@@ -87,7 +87,7 @@
           </GaussianRandomTimer>
           <hashTree/>
           <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="察看结果树" enabled="true">
-            <boolProp name="ResultCollector.error_logging">true</boolProp>
+            <boolProp name="ResultCollector.error_logging">false</boolProp>
             <objProp>
               <name>saveConfig</name>
               <value class="SampleSaveConfiguration">
@@ -117,7 +117,7 @@
                 <idleTime>true</idleTime>
               </value>
             </objProp>
-            <stringProp name="filename">~/jmeter/jmeter-res1.csv</stringProp>
+            <stringProp name="filename">jmeter-res1.csv</stringProp>
           </ResultCollector>
           <hashTree/>
           <ResultCollector guiclass="StatVisualizer" testclass="ResultCollector" testname="聚合报告" enabled="true">
@@ -151,7 +151,7 @@
                 <idleTime>true</idleTime>
               </value>
             </objProp>
-            <stringProp name="filename">~/jmeter/jmeter-res2.csv</stringProp>
+            <stringProp name="filename">jmeter-res2.csv</stringProp>
           </ResultCollector>
           <hashTree/>
           <ResultCollector guiclass="GraphVisualizer" testclass="ResultCollector" testname="图形结果" enabled="true">
@@ -184,7 +184,7 @@
                 <threadCounts>true</threadCounts>
               </value>
             </objProp>
-            <stringProp name="filename">~/jmeter/jmeter-res3.csv</stringProp>
+            <stringProp name="filename">jmeter-res3.csv</stringProp>
           </ResultCollector>
           <hashTree/>
         </hashTree>
