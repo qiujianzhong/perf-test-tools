@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="214" lt="213" ts="1476414111375" s="true" lb="test" rc="200" rm="OK" tn="线程组 1-1" dt="bin" by="8271" ng="1" na="1"/>
+<httpSample t="32" lt="31" ts="1476414111591" s="true" lb="test" rc="200" rm="OK" tn="线程组 1-1" dt="bin" by="12706" ng="1" na="1"/>
+<httpSample t="154" lt="64" ts="1476414111623" s="true" lb="test" rc="200" rm="OK" tn="线程组 1-1" dt="bin" by="102251" ng="2" na="2"/>
+<httpSample t="50" lt="50" ts="1476414111778" s="true" lb="test" rc="200" rm="OK" tn="线程组 1-1" dt="bin" by="1469" ng="2" na="2"/>
+<httpSample t="131" lt="96" ts="1476414111706" s="true" lb="test" rc="200" rm="OK" tn="线程组 1-2" dt="bin" by="33101" ng="2" na="2"/>
+<httpSample t="65" lt="65" ts="1476414111828" s="true" lb="test" rc="200" rm="OK" tn="线程组 1-1" dt="bin" by="3305" ng="2" na="2"/>
+<httpSample t="52" lt="52" ts="1476414111840" s="true" lb="test" rc="200" rm="OK" tn="线程组 1-2" dt="bin" by="1652" ng="2" na="2"/>
+
+<httpSample t="151" lt="151" ts="1476414119374" s="true" lb="test" rc="200" rm="OK" tn="线程组 1-1" dt="bin" by="8271" ng="1" na="1"/>
+<httpSample t="30" lt="28" ts="1476414119526" s="true" lb="test" rc="200" rm="OK" tn="线程组 1-1" dt="bin" by="12706" ng="1" na="1"/>
+<httpSample t="162" lt="75" ts="1476414119556" s="true" lb="test" rc="200" rm="OK" tn="线程组 1-1" dt="bin" by="102251" ng="2" na="2"/>
+<httpSample t="45" lt="45" ts="1476414119718" s="true" lb="test" rc="200" rm="OK" tn="线程组 1-1" dt="bin" by="1469" ng="2" na="2"/>
+<httpSample t="54" lt="53" ts="1476414119764" s="true" lb="test" rc="200" rm="OK" tn="线程组 1-1" dt="bin" by="3305" ng="2" na="2"/>
+<httpSample t="133" lt="108" ts="1476414119705" s="true" lb="test" rc="200" rm="OK" tn="线程组 1-2" dt="bin" by="33101" ng="2" na="2"/>
+<httpSample t="51" lt="51" ts="1476414119819" s="true" lb="test" rc="200" rm="OK" tn="线程组 1-1" dt="bin" by="1652" ng="1" na="1"/>
+
+</testResults>

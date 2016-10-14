@@ -1,0 +1,8 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,Latency,IdleTime
+1476414111375,214,test,200,OK,线程组 1-1,bin,true,,8271,1,1,213,0
+1476414111591,32,test,200,OK,线程组 1-1,bin,true,,12706,1,1,31,0
+1476414111623,154,test,200,OK,线程组 1-1,bin,true,,102251,2,2,64,0
+1476414111778,50,test,200,OK,线程组 1-1,bin,true,,1469,2,2,50,0
+1476414111706,131,test,200,OK,线程组 1-2,bin,true,,33101,2,2,96,0
+1476414111840,52,test,200,OK,线程组 1-2,bin,true,,1652,2,2,52,0
+1476414111828,65,test,200,OK,线程组 1-1,bin,true,,3305,2,2,65,0
