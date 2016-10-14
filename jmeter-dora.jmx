@@ -113,6 +113,7 @@
                 <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
                 <assertionsResultsToSave>0</assertionsResultsToSave>
                 <bytes>true</bytes>
+                <url>true</url>
                 <threadCounts>true</threadCounts>
                 <idleTime>true</idleTime>
               </value>
